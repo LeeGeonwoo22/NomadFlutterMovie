@@ -4,5 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-![](https://velog.velcdn.com/images/corepen_/post/571624ea-ce9d-44d4-9450-51da133a0a98/image.gif)
+![MovieApp - 2](https://github.com/LeeGeonwoo22/NomadFlutterMovie/assets/71261997/1c5f0525-c84d-4b7d-98ae-91e48c65d166)
 
