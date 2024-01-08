@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_movie_app_origin/widgets/comingMovie.dart';
 import 'package:flutter_movie_app_origin/widgets/customNavbar.dart';
 import 'package:flutter_movie_app_origin/widgets/playingMovie.dart';
+import 'package:flutter_movie_app_origin/widgets/popularMovie.dart';
 
 // ignore: depend_on_referenced_packages
 // import '';
@@ -86,7 +87,7 @@ class HomePage extends StatelessWidget {
             const SizedBox(
               height: 30,
             ),
-            // const PopularMoviegWidget(),
+            const PopularMoviegWidget(),
             const SizedBox(
               height: 30,
             )

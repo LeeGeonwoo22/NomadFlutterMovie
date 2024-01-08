@@ -1,8 +1,10 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+
 import 'package:flutter_movie_app_origin/models/movies_model.dart';
 import 'package:flutter_movie_app_origin/service/api_service.dart';
+
 import 'package:flutter_movie_app_origin/widgets/customNavbar.dart';
 import 'package:flutter_movie_app_origin/widgets/moviePageButton.dart';
 import 'package:flutter_movie_app_origin/widgets/recommend.dart';

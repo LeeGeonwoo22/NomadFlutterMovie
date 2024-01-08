@@ -94,11 +94,12 @@ class _CategoryPageState extends State<CategoryPage> {
                                   Text(
                                     wrapText(movie.title),
                                     style: const TextStyle(
-                                        fontSize: 14,
+                                        fontSize: 12,
                                         fontWeight: FontWeight.w500,
                                         color: Colors.white),
                                     softWrap: true,
                                     overflow: TextOverflow.ellipsis,
+                                    maxLines: 2,
                                   ),
                                   const Spacer(),
                                   const Icon(

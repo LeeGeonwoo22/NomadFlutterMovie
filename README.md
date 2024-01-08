@@ -1,16 +1,8 @@
-# flutter_movie_app_origin
+# flutter_movie_app_origin UI/UX
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![](https://velog.velcdn.com/images/corepen_/post/571624ea-ce9d-44d4-9450-51da133a0a98/image.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
